@@ -1,0 +1,67 @@
+body {
+	font-family: Arial, sans-serif;
+	margin: 0;
+	padding: 0;
+}
+
+header {
+	background-color: #333;
+	color: #fff;
+	padding: 20px;
+}
+
+nav ul {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+
+nav li {
+	display: inline-block;
+	margin-right: 20px;
+}
+
+nav a {
+	color: #fff;
+	text-decoration: none;
+}
+
+main {
+	padding: 20px;
+}
+
+.produits {
+	margin-bottom: 40px;
+}
+
+.produits h2 {
+	font-size: 24px;
+	margin-bottom: 20px;
+}
+
+.produits ul {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+
+.produits li {
+	display: inline-block;
+	margin-right: 20px;
+	vertical-align: top;
+}
+
+.produits img {
+	display: block;
+	margin-bottom: 10px;
+	max-width: 100%;
+}
+
+.produits h3 {
+	font-size: 18px;
+	margin-bottom: 5px;
+}
+
+.produits p {
+	margin: 0;
+}
